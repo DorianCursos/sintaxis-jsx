@@ -1,9 +1,11 @@
 const App = () => {
 	return (
-		<div>
-			<h1>Curso de React</h1>
-		</div>
+		<>
+			<img src='/assets/images/vite.svg' alt='logo' />
+		</>
 	);
 };
+
+// document.createDocumentFragment()
 
 export default App;
